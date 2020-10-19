@@ -18,5 +18,5 @@ A continuación deberemos modificar la propiedad "OnVisible" para la pantalla Ay
 
 
 # Disclaimer
-Esta aplicación puede ser descargada, modificada, utilizada y/o distribuida sin más restricción que no la de no ser usada para fines comerciales. La aplicación se facilita "as-is" sin soporte sobre la misma por parte de Ferrovial.
+Esta aplicación puede ser descargada, modificada, utilizada y/o distribuida sin más restricción que la de no ser usada para fines comerciales. La aplicación se facilita "as-is" sin soporte sobre la misma por parte de Ferrovial.
 El único objetivo que pretendemos con la publicación de la misma es poder ayudar a otras compañías o asociaciones a tener un mayor control de los posibles contactos dentro del ámbito laboral.
