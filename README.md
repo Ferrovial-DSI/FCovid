@@ -3,6 +3,22 @@
 
 El objetivo de esta app es facilitar la vuelta al trabajo en nuestras organizaciones y llevar un adecuado control de los contactos mantenidos en el ámbito laboral
 
+# Funcionalidad
+
+La App genera un código QR único para cada usuario de la misma, con objeto de facilitar el registro de contactos entre sus usuarios.
+
+Dispone de las siguientes opciones de menú:
+
+• Escanear QR, permite escanear códigos QR de otros usuarios, para registrar el haber estado en contacto con ellos.
+
+• Buscar por Nombre, lo mismo que lo anterior pero en lugar de escanear código QR se darían de alta manualmente las personas con las que se ha tenido contacto.
+
+• Mis Registros, consulta de las personas que hemos informado mediante las dos opciones anteriores.
+
+• ¿Necesitas ayuda?, permite dar de alta incidencias o sugerencias
+
+• Cláusula de Protección de Datos, para aprobación y consulta por parte de los usuarios de la App.
+
 # Instalación
 
 Para instalar esta app deberás descargar el fichero "Fcovid_1_0_0_1_managed.zip" e importarla como solución en un entorno de PowerApps que incluya CDS.
